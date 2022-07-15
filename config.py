@@ -20,7 +20,7 @@ TEST_MODE = False
 UNATTENDED = True
 # For normal use, set to 20
 # 10 = DEBUG, 20 = INFO, 30 = WARNING, 40 = ERROR
-LOG_LEVEL = 20
+LOG_LEVEL = 30
 
 
 # Put here your channel URL
