@@ -30,7 +30,7 @@ MY_CHANNEL_URL = ''
 PLAYLIST_UPLOADS_ID = ''
 
 # Put in this list all the words you want to search in the username of the comment to ban
-name_banned_words = ["telegram", "whatsapp", "elegra", "hatsap", "nate gentile", "nate_gentile", "⓪", "①", "②", "③",
+name_banned_words = ["telegram", "free", "send message", "mandame mensaje", "gratis", "whatsapp", "elegra", "hatsap", "nate gentile", "nate_gentile", "⓪", "①", "②", "③",
                      "④", "⑤", "⑥", "⑦", "⑧", "⑨", "➀", "➁", "➂", "➃", "➄", "➅", "➆", "➇", "➈", "➉"]
 # Put in this list all the words you want to search in the message of the comment to ban
 body_banned_words = []
